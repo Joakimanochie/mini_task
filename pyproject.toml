@@ -1,0 +1,12 @@
+[project]
+name = "nithub"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "dotenv>=0.9.9",
+    "gradio>=6.10.0",
+    "groq>=1.1.2",
+    "openai>=2.30.0",
+]
